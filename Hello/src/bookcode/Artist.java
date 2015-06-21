@@ -1,4 +1,4 @@
-package hello;
+package bookcode;
 
 public class Artist {
 
